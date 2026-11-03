@@ -8,10 +8,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | Field        | Details               |
 | ------------ | --------------------- |
-| **Name**     | Raghavendra R Urankar |
-| **Roll No.** | 620                   |
-| **Division** | F                     |
-| **SRN**      | 01FE23BEC319          |
+| **Name**     | Dhanush K Nyamagoudar |
+| **Roll No.** | 329                   |
+| **Division** | C                     |
+| **SRN**      | 01FE23BEC123          |
 | **Semester** | VII                   |
 
 ---
